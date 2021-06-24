@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "17384eab9ee50ab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97537fc5db1d943",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "681d82b4c0b7548d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd01db1dbf0d3533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00213074b33a93d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb860fc8f6a5e043",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69922e69e339e3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97ca2617f8d84bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe88b3e3d30adf60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c97537fc5db1d943",
+  "lastOpenFiles": [
+    "README.md",
+    "2_WebApp_workflow.md",
+    "Recon/whatweb 1.md",
+    "Recon/whatweb.md",
+    "1_General_workflow.md",
+    "Mobile/mobile_scratch.md",
+    "Mobile/Mobile_Lab_Setup.md",
+    "Mobile/Untitled.md",
+    "AtkBox_setup.md",
+    "Utility/anew.md"
+  ]
+}
