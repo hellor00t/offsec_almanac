@@ -18,14 +18,12 @@
   <p align="center">
      A collection of offensive security tools organized into categories based on workflow 
     <br />
-    <a href="https://github.com/hellor00t/offsec_almanac"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/hellor00t/offsec_almanac">View Demo</a>
-    ·
     <a href="https://github.com/hellor00t/offsec_almanac/issues">Report Bug</a>
     ·
     <a href="https://github.com/hellor00t/offsec_almanac/issues">Request Feature</a>
+        ·
+    <a href="https://github.com/hellor00t/offsec_almanac/issues">Recommend Tool</a>
   </p>
 </p>
 
