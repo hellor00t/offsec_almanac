@@ -89,14 +89,14 @@
   "active": "c97537fc5db1d943",
   "lastOpenFiles": [
     "README.md",
-    "2_WebApp_workflow.md",
-    "Recon/whatweb 1.md",
-    "Recon/whatweb.md",
-    "1_General_workflow.md",
-    "Mobile/mobile_scratch.md",
-    "Mobile/Mobile_Lab_Setup.md",
-    "Mobile/Untitled.md",
+    "6_Infrastructure.md",
+    "5_Wordlist_workflow.md",
+    "Code_Testing/purple_team_labs 1.md",
+    "Code_Testing/purple_team_labs.md",
     "AtkBox_setup.md",
-    "Utility/anew.md"
+    "Utility/anew 1.md",
+    "Utility/anew.md",
+    "Utility/Untitled.md",
+    "Recon/nuclei.md"
   ]
 }

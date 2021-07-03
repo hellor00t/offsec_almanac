@@ -10,5 +10,11 @@ Summary: File upload vulnerabilities occur when a file upload may be poorly impl
 Notes
 The main vulnerabilities that file uploads face are path traversal related...
 
+### Snippets
+
+Expand Subnets into IPs
+
+`nmap -sL -n -iL blocks.txt | grep 'Nmap scan report for' | cut -f 5 -d ' '`
+
 ### References
 - \[\[File Upload Attacks Part 1\]\]
