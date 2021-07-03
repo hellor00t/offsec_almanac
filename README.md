@@ -163,5 +163,3 @@ Project Link: [https://github.com/hellor00t/offsec_almanac](https://github.com/h
 [issues-url]: https://github.com/hellor00t/repo/issues
 [license-shield]: https://img.shields.io/github/license/hellor00t/repo.svg?style=for-the-badge
 [license-url]: https://github.com/hellor00t/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/hellor00t
