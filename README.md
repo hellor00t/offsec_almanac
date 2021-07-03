@@ -152,13 +152,13 @@ Project Link: [https://github.com/hellor00t/offsec_almanac](https://github.com/h
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hellor00t/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/hellor00t/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hellor00t/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/hellor00t/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/hellor00t/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/hellor00t/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hellor00t/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/hellor00t/offsec_almanac.svg?style=for-the-badge
+[contributors-url]: https://github.com/hellor00t/offsec_almanac/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hellor00t/offsec_almanac.svg?style=for-the-badge
+[forks-url]: https://github.com/hellor00t/offsec_almanac/network/members
+[stars-shield]: https://img.shields.io/github/stars/hellor00t/offsec_almanac.svg?style=for-the-badge
+[stars-url]: https://github.com/hellor00t/offsec_almanac/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hellor00t/offsec_almanac.svg?style=for-the-badge
 [issues-url]: https://github.com/hellor00t/repo/issues
-[license-shield]: https://img.shields.io/github/license/hellor00t/repo.svg?style=for-the-badge
-[license-url]: https://github.com/hellor00t/repo/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/hellor00t/offsec_almanac.svg?style=for-the-badge
+[license-url]: https://github.com/hellor00t/offsec_almanac/blob/master/LICENSE.txt
