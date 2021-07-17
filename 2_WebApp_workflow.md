@@ -46,8 +46,10 @@ OR
 
 * https://pbs.twimg.com/media/EfMa-dyXgAcRqjx?format=jpg&name=large
 
-![Image](https://pbs.twimg.com/media/EfMa-dyXgAcRqjx?format=jpg&name=large)
+* ![Image](https://pbs.twimg.com/media/EfMa-dyXgAcRqjx?format=jpg&name=large)
 
 * https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/Bug%20Hunters%20Methodology%20v4/MindMap.png
 
-![https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/Bug%20Hunters%20Methodology%20v4/MindMap.png](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/Bug%20Hunters%20Methodology%20v4/MindMap.png)
+* ![https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/Bug%20Hunters%20Methodology%20v4/MindMap.png](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/Bug%20Hunters%20Methodology%20v4/MindMap.png)
+
+* https://project-awesome.org/qazbnm456/awesome-web-security

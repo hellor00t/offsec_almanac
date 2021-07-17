@@ -48,3 +48,6 @@ subfinder -d bugcrowd\[.\]com -silent | httpx -silent | hakrawler -plain | tr "\
 * https://tomnomnom.com/talks/wwwww.pdf
 * https://twitter.com/hakluke/status/1301487471704776705
 * https://twitter.com/bugcrowd/status/1362627992036519940
+* https://github.com/payloadbox
+* https://github.com/swisskyrepo/PayloadsAllTheThings
+* https://github.com/danielmiessler/SecLists
